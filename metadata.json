@@ -1,0 +1,6 @@
+{
+  "name": "PDF Editor",
+  "description": "Offline PDF viewer, annotation, editing, conversion, and document tools with local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
